@@ -14,7 +14,7 @@ import org.neuroph.nnet.MultiLayerPerceptron;
 import org.neuroph.nnet.learning.MomentumBackpropagation;
 import org.neuroph.util.TransferFunctionType;
 
-/**
+/*
  * Example of binary classification (mine or rock) using Multi Layer Perceptron on sonar signal data set. 
  */
 /*
