@@ -26,11 +26,6 @@ import org.neuroph.util.TransferFunctionType;
 import org.neuroph.util.data.norm.MaxNormalizer;
 import org.neuroph.util.data.norm.Normalizer;
 
-/**
- *
- * @author Nevena Milenkovic
- */
-/*
  INTRODUCTION TO THE PROBLEM AND DATA SET INFORMATION:
  1. Data set that will be used in this experiment: Boston House Price Dataset
     The Boston House Price Dataset involves the prediction of a house price in thousands of dollars given details of the house and its neighborhood.
