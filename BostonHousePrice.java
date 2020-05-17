@@ -26,6 +26,7 @@ import org.neuroph.util.TransferFunctionType;
 import org.neuroph.util.data.norm.MaxNormalizer;
 import org.neuroph.util.data.norm.Normalizer;
 
+/*
  INTRODUCTION TO THE PROBLEM AND DATA SET INFORMATION:
  1. Data set that will be used in this experiment: Boston House Price Dataset
     The Boston House Price Dataset involves the prediction of a house price in thousands of dollars given details of the house and its neighborhood.
@@ -56,6 +57,7 @@ import org.neuroph.util.data.norm.Normalizer;
  14) Output: MEDV: Median value of owner-occupied homes in $1000s..
 6. Missing Values: None.
  */
+
 public class BostonHousePrice {
 
     public static void main(String[] args) {
